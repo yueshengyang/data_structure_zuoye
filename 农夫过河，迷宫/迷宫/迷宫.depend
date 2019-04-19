@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512574705 source:e:\codeblocks\office chijiayang\รินฌ\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+

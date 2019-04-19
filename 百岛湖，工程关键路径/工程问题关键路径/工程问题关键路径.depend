@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513513663 source:e:\codeblocks\office chijiayang\工程问题关键路径\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

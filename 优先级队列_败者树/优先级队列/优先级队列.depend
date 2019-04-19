@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511878346 source:e:\codeblocks\office chijiayang\优先级队列\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
